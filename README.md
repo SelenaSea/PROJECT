@@ -1,4 +1,4 @@
-# PROJECT
+# PROJECT Quiz Freeze
 
 
 ЛЕГЕНДА Вы продолжаете работу над мобильной игрой Quiz Freeze.
