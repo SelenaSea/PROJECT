@@ -1,4 +1,4 @@
-# PROJECT Quiz Freeze
+# Research behaivor of users of game "Quiz Freeze" _ Python
 
 
 В общем, коллеги вновь обратились за помощью. На сей раз необходимо проверить несколько гипотез.
